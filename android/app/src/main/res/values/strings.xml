@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LÍNGUA DOS AUTISTAXXX</string>
+    <string name="title_activity_main">LÍNGUA DOS AUTISTAXXX</string>
+    <string name="package_name">com.antonio.linguadosautistas</string>
+    <string name="custom_url_scheme">com.antonio.linguadosautistas</string>
+</resources>
